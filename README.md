@@ -7,4 +7,4 @@ HTML5
 CSS3
 JavaScript.
 
-  https://github.com/mishragithu/Web-Calculator/issues/2#issue-2081279489
+![Screenshot (59)](https://github.com/mishragithu/Web-Calculator/assets/118820226/af8be647-0d1a-479b-9650-3392c78bff9d)
